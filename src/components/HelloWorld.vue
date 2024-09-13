@@ -8,17 +8,16 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. What's next?
+      Bienvenue sur mon portfolio, tu peux aussi apprendre a me a connaitre sur
+      <a href="https://www.linkedin.com/in/matéo-iori-81ba79273/" target="_blank" rel="noopener">Linkedin</a>
     </h3>
   </div>
 </template>
 
 <style scoped>
 h1 {
-  font-weight: 500;
-  font-size: 2.6rem;
+  font-weight: 400;
+  font-size: 2rem;
   position: relative;
   top: -10px;
 }
